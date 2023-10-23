@@ -35,6 +35,7 @@ bin/
 /nbdist/
 /.nb-gradle/
 /.idea
+/gradle/
 
 ### VS Code ###
 .vscode/
